@@ -36,33 +36,3 @@
 }
 
 
-.toc {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 20px;
-}
-
-.toc ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.toc li {
-  margin-bottom: 5px;
-}
-
-.toc a {
-  color: #5f9ea0;
-  text-decoration: none;
-}
-
-.toc a:hover {
-  text-decoration: underline;
-}
-
-.toc ul ul {
-  margin-left: 10px;
-}

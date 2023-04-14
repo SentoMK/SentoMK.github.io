@@ -1,0 +1,15 @@
+#back-to-top-container{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: darkcyan;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#back-to-top-container a {
+    color:antiquewhite;
+    text-decoration: none;
+    font-size:14px;
+}
